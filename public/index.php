@@ -1,6 +1,5 @@
 <?php
-echo"Dipendu";
-//phpinfo();
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
