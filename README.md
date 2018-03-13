@@ -1,7 +1,7 @@
 Welcome guys to the New Amazon Web Service CodeStar laravel sample web application
 ==================================================
 
-Learning Git Model
+Learning Git Model Reference : http://nvie.com/posts/a-successful-git-branching-model/
 ==================================================
 
 This laravel sample code helps get you started with a simple PHP Laravel web
