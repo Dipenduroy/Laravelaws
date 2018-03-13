@@ -1,4 +1,4 @@
-Welcome guys to the New AWS CodeStar laravel sample web application
+Welcome guys to the New Amazon Web Service CodeStar laravel sample web application
 ==================================================
 
 Learning Git Model
