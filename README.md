@@ -1,10 +1,10 @@
-Welcome to the New AWS CodeStar laravel sample web application
+Welcome guys to the New AWS CodeStar laravel sample web application
 ==================================================
 
 Learning Git Model
 ==================================================
 
-This sample code helps get you started with a simple PHP Laravel web
+This laravel sample code helps get you started with a simple PHP Laravel web
 application deployed by AWS Elastic Beanstalk.
 
 What's Here
