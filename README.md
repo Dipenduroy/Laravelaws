@@ -1,5 +1,8 @@
-Welcome to the AWS CodeStar laravel sample web application
-==================================================
+Welcome to the AWS CodeStar laravel sample web application.
+====================================================================================================
+
+Testing Git
+====================================================================================================
 
 This sample code helps get you started with a simple PHP Laravel web
 application deployed by AWS Elastic Beanstalk.
